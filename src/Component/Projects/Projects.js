@@ -1,6 +1,6 @@
 import React from 'react';
 import cycleon from '../../img/cycleon.PNG'
-import agile from '../../img/agile.PNG'
+import educare from '../../img/new.PNG'
 import power from '../../img/power.PNG'
 
 
@@ -23,7 +23,7 @@ const Projects = () => {
                         </div>
                     </div>
                 </div><div class="card w-80 bg-base-100 shadow-xl">
-                    <figure><img src={agile} alt="Shoes" /></figure>
+                    <figure><img src={educare} alt="Shoes" /></figure>
                     <div class="card-body">
                         <h2 class="card-title">
                             AGILE MANUFACTURER LTD
